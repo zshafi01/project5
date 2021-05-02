@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.simplilearn</groupId>
-	<artifactId>ezfood</artifactId>
+	<artifactId>project5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ezfood</name>
+	<name>project5</name>
 	<description>project using spring boots</description>
 	<properties>
 		<java.version>1.8</java.version>
