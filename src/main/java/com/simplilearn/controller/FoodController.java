@@ -15,7 +15,7 @@ import com.simplilearn.domain.Food;
 import com.simplilearn.service.FoodService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin
 public class FoodController {
 	
 	@Autowired

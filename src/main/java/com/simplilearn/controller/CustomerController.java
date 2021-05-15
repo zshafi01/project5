@@ -17,7 +17,7 @@ import com.simplilearn.service.CustomerService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin
 public class CustomerController {
 	
 	@Autowired

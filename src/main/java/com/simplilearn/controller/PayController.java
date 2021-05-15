@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.simplilearn.domain.Pay;
 import com.simplilearn.service.PayService;
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin
 public class PayController {
 
 	@Autowired
